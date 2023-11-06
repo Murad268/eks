@@ -1,0 +1,8 @@
+{
+    "Category": true,
+    "Base": true,
+    "Blog": true,
+    "Migration": true,
+    "AddSlugFieldToBlogsTable": true,
+    "Login": true
+}
